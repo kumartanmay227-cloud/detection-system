@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# PyTorch
+models/
+*.torch
+*.pt
+*.pth
+
+# Data
+data/
+*.jpg
+*.png
+*.mp4
+
+# Logs
+logs/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
